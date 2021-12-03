@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+
 body{
     background-image: url("https://cdn.wallpapersafari.com/9/57/PdJiN3.jpg")
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
 }
 
 h3, p{
@@ -97,4 +104,12 @@ h2{
 
 .opleiding{
     margin-right: 600px;
+}
+
+.headerprojecten{
+    color: white;
+}
+
+.titel1{
+    text-align: center;
 }
